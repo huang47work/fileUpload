@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fileUploadDemo">
+    <output-path>$PROJECT_DIR$/classes/artifacts/fileUploadDemo</output-path>
+    <root id="archive" name="fileUploadDemo.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVCUploadFileDemo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
